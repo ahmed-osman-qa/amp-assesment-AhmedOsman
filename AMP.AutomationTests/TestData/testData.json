@@ -1,0 +1,23 @@
+﻿{
+  "Users": {
+    "StandardUser": {
+      "Username": "standard_user",
+      "Password": "secret_sauce"
+    },
+    "LockedOutUser": {
+      "Username": "locked_out_user",
+      "Password": "secret_sauce"
+    },
+    "InvalidUser": {
+      "Username": "standard_user",
+      "Password": "wrong_password"
+    }
+  },
+  "Checkout": {
+    "ValidCustomer": {
+      "FirstName": "Ahmed",
+      "LastName": "Osman",
+      "PostalCode": "30301"
+    }
+  }
+}
